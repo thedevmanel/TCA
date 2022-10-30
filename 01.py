@@ -1,4 +1,3 @@
-from webbrowser import BackgroundBrowser
 import pygame as jooj
 from pygame.locals import *     # IMPORTANDO TODAS AS FUNÇOES DO "LOCALS"
 from sys import exit            #  PARA PODER FECHAR A JANELA
